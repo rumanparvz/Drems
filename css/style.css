@@ -1,0 +1,95 @@
+*{
+	margin:0px; padding:0px;
+}
+body{
+	background:#fff;
+	color:#5D5D5D;
+	    box-sizing:none;
+}
+li.nav-item {
+    font-size: 15px;
+	text-transform: uppercase;
+	padding-right:20px;	
+}
+
+section#Home {
+ 
+}
+.nav-item:last-child{ padding-right:0px;}
+
+.tab-img{ position:relative;
+left:70px;}
+
+
+#Home{
+	background:url(../img/06-2copy.jpg) no-repeat;
+	background-size:cover;
+	height:645px;
+
+	
+}
+h1{
+	padding-top: 12rem;
+	text-transform: uppercase;
+	font-size:50px;
+	color:#fff;
+}
+hr{
+    max-width: 14%;
+    margin: auto;
+    background: #35C2F8;
+    height: 2px;
+    margin-top: 34px;
+}
+p.lead {
+    color: #CCCCCC;
+    font-size: 20px;
+}
+h2{
+	
+	text-transform: uppercase;
+	font-size:40px;
+	color:#222222;
+}
+h6{
+	
+	text-transform: uppercase;
+font-size:16px;}
+
+#Expertise{
+background:#F7F7F7;
+}
+
+
+.btn {
+    padding: 21px;
+    border: 1.5px solid #35c2f838;
+    border-radius: 18px;
+    width: 199px;
+}
+#bg-icon{
+		background:url(../img/bg-2.png) no-repeat;
+		
+}
+.order-2{
+margin-left: -36px;
+}
+#team{
+background:#F7F7F7;
+}
+#Contact{
+	background:#111111;
+}
+.sticky{
+	position:fixed;
+	top:-24px;
+	background:black;
+}
+.top{
+	position: fixed;
+    bottom: 11px;
+    color: red;
+    right: 23px;
+    background: #ff0707;
+	
+}
